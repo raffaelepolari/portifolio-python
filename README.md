@@ -18,4 +18,4 @@ Welcome to my Python portfolio. I'm passionate about solving real-world problems
 
 ## 📫 Contact Me
 - 📧 Email: raffaele.polari@hotmail.com
-- 💼 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/raffaelepolari/)
+- 💼 LinkedIn: [linkedin.com/in/raffaelepolari](https://www.linkedin.com/in/raffaelepolari/)
